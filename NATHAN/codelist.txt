@@ -1,0 +1,7 @@
+cd //change directory
+cd .. // back one dir.
+mkdir // makes directorys
+rm // removes dir.
+
+
+git checkout -b nameit // creates branch
