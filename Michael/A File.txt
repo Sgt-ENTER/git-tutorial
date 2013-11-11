@@ -1,0 +1,22 @@
+General Commands
+------------------------------------------
+/cd = Change directory,
+/cd .. Previous Directory
+/cd ~ Home Directory
+/mkdir Make Directory
+/rm Remove directory or files
+
+
+
+Git Commands
+------------------------------------------
+/git clone "Insert Link Here"
+/git checkout -b Branch Name (This creates a branch and enters it)
+/git branch (Lists out all the branches in directory)
+/git status (Shows which files you changed)
+/git add filename.extension (Adds a file to commit)
+/git add directory/* (Adds all files in the directory to commit)
+/git commit -m "Enter Message" (commits all files added)
+/git fetch ldu (Fetches all code from ldu [ldu can be replaced with anything])
+/git rebase ldu/master (reorganises commit messages)
+/git push (pushes code to database)
