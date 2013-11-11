@@ -19,4 +19,4 @@ Git Commands
 /git commit -m "Enter Message" (commits all files added)
 /git fetch ldu (Fetches all code from ldu [ldu can be replaced with anything])
 /git rebase ldu/master (reorganises commit messages)
-/git push (pushes code to database)
+/git push origin branch name (pushes code to database)
